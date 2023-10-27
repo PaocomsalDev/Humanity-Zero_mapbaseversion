@@ -1,0 +1,83 @@
+19:30:16.178 INFO  Loading C:\Program Files (x86)\Steam\steamapps\common\half-life 2\episodic\maps\ep1_citadel_03.bsp
+19:30:17.858 INFO  Using 'DStaticPropV5' for sprp version 5
+19:30:18.296 WARN  Tried reading lump 'LUMP_DISP_MULTIBLEND', but it is not supported by the bsp's version
+19:30:18.429 WARN  Lump LUMP_OVERLAY_FADES is empty
+19:30:18.465 WARN  Lump LUMP_OVERLAY_SYSTEM_LEVELS is empty
+19:30:18.481 INFO  BSP version: 20
+19:30:18.484 INFO  Game: Half-Life 2: Episode One
+19:30:18.924 INFO  Equal amount of areaporal entities and areaportal brushes. Using 'Ordered' method
+19:30:19.226 INFO  Unequal amount of occluder faces and occluder brush faces. Falling back to 'Manual' method
+19:30:22.669 INFO  14745 (27.9%) exact brushside->origface matches
+19:30:22.688 INFO  13/16 (nondisp/disp) original faces left after exact brushside->origface matching
+19:30:23.794 INFO  971 (1.8%) partial brushside->origface matches
+19:30:23.801 INFO  Writing brushes and planes
+19:30:26.685 INFO  Writing displacements
+19:30:26.763 INFO  Writing entities
+19:30:28.287 INFO  Writing func_details
+19:30:31.104 INFO  Writing info_overlays
+19:30:31.115 INFO  Writing prop_statics
+19:30:31.145 INFO  Writing env_cubemaps
+19:30:31.150 INFO  Writing func_ladders
+19:30:31.172 INFO  Finished decompiling C:\Program Files (x86)\Steam\steamapps\common\half-life 2\episodic\maps\ep1_citadel_03.bsp.
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\Humanity-Zero_mapbaseversion\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\Humanity-Zero_mapbaseversion\maps\ep1_citadel_03_d.vmf
+"materials/dev/dev_windowportal.vtf": cached version doesn't exist
+Brush 34707: MAX_MAP_PLANES
+Side 4
+Texture: metal/metalcombine002
+
+
+
+4 threads
+reading c:\program files (x86)\steam\steamapps\sourcemods\humanity-zero_mapbaseversion\maps\ep1_citadel_03_d.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\humanity-zero_mapbaseversion\maps\ep1_citadel_03_d.bsp
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\program files (x86)\steam\steamapps\sourcemods\humanity-zero_mapbaseversion\maps\ep1_citadel_03_d.bsp
+Error opening c:\program files (x86)\steam\steamapps\sourcemods\humanity-zero_mapbaseversion\maps\ep1_citadel_03_d.bsp
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\Humanity-Zero_mapbaseversion\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\Humanity-Zero_mapbaseversion\maps\ep1_citadel_03_d.vmf
+"materials/dev/dev_windowportal.vtf": cached version doesn't exist
+Brush 34707: MAX_MAP_PLANES
+Side 4
+Texture: metal/metalcombine002
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\Humanity-Zero_mapbaseversion\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\Humanity-Zero_mapbaseversion\maps\ep1_citadel_03_d.vmf
+"materials/dev/dev_windowportal.vtf": cached version doesn't exist
+Brush 37897: MAX_MAP_PLANES
+Side 5
+Texture: METAL/CITADEL_METALWALL077A
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\Humanity-Zero_mapbaseversion\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\Humanity-Zero_mapbaseversion\maps\ep1_citadel_03_d.vmf
+"materials/dev/dev_windowportal.vtf": cached version doesn't exist
+Brush 37921: MAX_MAP_PLANES
+Side 5
+Texture: METAL/METALCOMBINE002
+
+
+
+Using shader api: shaderapiempty.dll
+materialPath: C:\Program Files (x86)\Steam\steamapps\sourcemods\Humanity-Zero_mapbaseversion\materials
+Loading C:\Program Files (x86)\Steam\steamapps\sourcemods\Humanity-Zero_mapbaseversion\maps\ep1_citadel_03_d.vmf
+"materials/dev/dev_windowportal.vtf": cached version doesn't exist
+Brush 38001: MAX_MAP_PLANES
+Side 5
+Texture: METAL/CITADEL_METALWALL077A

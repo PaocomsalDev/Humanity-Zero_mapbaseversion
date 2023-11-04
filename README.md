@@ -1,6 +1,7 @@
 # Combine Memories
 Is this a dream? a dejavú? 
-Hop in to the minds of 
+Jump though the perspectives
+and minds of 
 transhuman and human 
 forces during the fall of 
 city's 20 citadel

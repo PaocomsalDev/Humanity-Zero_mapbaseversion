@@ -1,0 +1,24 @@
+19:51:33.766 INFO  Loading C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\maps\d3_citadel_05.bsp
+19:51:34.143 INFO  Using 'DStaticPropV5' for sprp version 5
+19:51:34.159 WARN  Lump LUMP_CLIPPORTALVERTS is empty
+19:51:34.163 WARN  Tried reading lump 'LUMP_DISP_MULTIBLEND', but it is not supported by the bsp's version
+19:51:34.178 WARN  Lump LUMP_OVERLAYS is empty
+19:51:34.178 WARN  Tried reading lump 'LUMP_OVERLAY_FADES', but it is not supported by the bsp's version
+19:51:34.178 WARN  Tried reading lump 'LUMP_OVERLAY_SYSTEM_LEVELS', but it is not supported by the bsp's version
+19:51:34.179 WARN  Tried reading lump 'LUMP_MAP_FLAGS', but it is not supported by the bsp's version
+19:51:34.180 INFO  BSP version: 19
+19:51:34.180 INFO  Game: Half-Life 2
+19:51:34.192 INFO  No areaportals to reallocate...
+19:51:34.199 INFO  No occluders to reallocate...
+19:51:34.816 INFO  8034 (30.0%) exact brushside->origface matches
+19:51:34.817 INFO  0/174 (nondisp/disp) original faces left after exact brushside->origface matching
+19:51:35.040 INFO  750 (2.8%) partial brushside->origface matches
+19:51:35.042 INFO  Writing brushes and planes
+19:51:35.337 INFO  Writing displacements
+19:51:35.461 INFO  Writing entities
+19:51:35.603 INFO  Writing func_details
+19:51:37.489 INFO  Writing info_overlays
+19:51:37.490 INFO  Writing prop_statics
+19:51:37.509 INFO  Writing env_cubemaps
+19:51:37.510 INFO  Writing func_ladders
+19:51:37.512 INFO  Finished decompiling C:\Program Files (x86)\Steam\steamapps\common\half-life 2\hl2\maps\d3_citadel_05.bsp.

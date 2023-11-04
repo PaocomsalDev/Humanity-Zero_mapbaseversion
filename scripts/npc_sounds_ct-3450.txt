@@ -1,0 +1,11 @@
+//scripts for our 'hero', ct-3450
+
+"pc_ct3450.transhuman"
+{
+	"channel"		"CHAN_WEAPON"
+	"volume"		"VOL_NORM"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"		"SNDLVL_90dB"
+	"wave"			"*^npc/ct-3450/trasnhumanpromotion.wav"
+}

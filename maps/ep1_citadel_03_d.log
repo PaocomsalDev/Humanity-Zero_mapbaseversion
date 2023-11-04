@@ -1,0 +1,21 @@
+19:51:35.425 INFO  Loading C:\Program Files (x86)\Steam\steamapps\common\half-life 2\episodic\maps\ep1_citadel_03.bsp
+19:51:36.027 INFO  Using 'DStaticPropV5' for sprp version 5
+19:51:36.113 WARN  Tried reading lump 'LUMP_DISP_MULTIBLEND', but it is not supported by the bsp's version
+19:51:36.146 WARN  Lump LUMP_OVERLAY_FADES is empty
+19:51:36.146 WARN  Lump LUMP_OVERLAY_SYSTEM_LEVELS is empty
+19:51:36.150 INFO  BSP version: 20
+19:51:36.151 INFO  Game: Half-Life 2: Episode One
+19:51:36.258 INFO  Equal amount of areaporal entities and areaportal brushes. Using 'Ordered' method
+19:51:36.352 INFO  Unequal amount of occluder faces and occluder brush faces. Falling back to 'Manual' method
+19:51:38.327 INFO  14745 (27.9%) exact brushside->origface matches
+19:51:38.327 INFO  13/16 (nondisp/disp) original faces left after exact brushside->origface matching
+19:51:38.644 INFO  971 (1.8%) partial brushside->origface matches
+19:51:38.645 INFO  Writing brushes and planes
+19:51:39.469 INFO  Writing displacements
+19:51:39.476 INFO  Writing entities
+19:51:39.944 INFO  Writing func_details
+19:51:41.490 INFO  Writing info_overlays
+19:51:41.491 INFO  Writing prop_statics
+19:51:41.497 INFO  Writing env_cubemaps
+19:51:41.499 INFO  Writing func_ladders
+19:51:41.501 INFO  Finished decompiling C:\Program Files (x86)\Steam\steamapps\common\half-life 2\episodic\maps\ep1_citadel_03.bsp.

@@ -1,0 +1,21 @@
+14:11:32.095 INFO  Loading C:\Program Files (x86)\Steam\steamapps\common\half-life 2\episodic\maps\ep1_c17_01.bsp
+14:11:32.453 INFO  Using 'DStaticPropV5' for sprp version 5
+14:11:32.516 WARN  Tried reading lump 'LUMP_DISP_MULTIBLEND', but it is not supported by the bsp's version
+14:11:32.541 WARN  Lump LUMP_OVERLAY_FADES is empty
+14:11:32.541 WARN  Lump LUMP_OVERLAY_SYSTEM_LEVELS is empty
+14:11:32.541 INFO  BSP version: 20
+14:11:32.542 INFO  Game: SiN Episodes: Emergence
+14:11:32.568 INFO  Equal amount of areaporal entities and areaportal brushes. Using 'Ordered' method
+14:11:32.583 INFO  Unequal amount of occluder faces and occluder brush faces. Falling back to 'Manual' method
+14:11:33.305 INFO  8868 (27.2%) exact brushside->origface matches
+14:11:33.312 INFO  4/207 (nondisp/disp) original faces left after exact brushside->origface matching
+14:11:33.619 INFO  542 (1.7%) partial brushside->origface matches
+14:11:33.620 INFO  Writing brushes and planes
+14:11:34.347 INFO  Writing displacements
+14:11:34.429 INFO  Writing entities
+14:11:34.717 INFO  Writing func_details
+14:11:35.071 INFO  Writing info_overlays
+14:11:35.095 INFO  Writing prop_statics
+14:11:35.116 INFO  Writing env_cubemaps
+14:11:35.118 INFO  Writing func_ladders
+14:11:35.120 INFO  Finished decompiling C:\Program Files (x86)\Steam\steamapps\common\half-life 2\episodic\maps\ep1_c17_01.bsp.
